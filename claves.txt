@@ -1,0 +1,12 @@
+Usuario administrador web:
+Correo: admin@mail.com
+Contraseña:1201INC_22
+
+Usuario servidor: lromero@epidisease.incliva.es
+Contraseña: 886INC*#Linux
+
+Usuario servidor base de datos: root
+Contraseña: 8840snk3008
+
+Usuario base de datos: usuario_DOC
+Contraseña: 8840prueba3008
